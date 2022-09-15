@@ -1,0 +1,32 @@
+  /* Cards */
+  .card-body:hover {
+    background-color: #0d6efd;
+  }
+
+  .card-body:hover p {
+    color: white!important;
+  }
+
+  .card-body:hover h4 {
+    color: white!important;
+  }
+
+  .border-secondary {
+    --bs-border-opacity: .5;
+  }
+
+  /* Profil */
+  .position-sticky {
+    position: sticky!important;
+  }
+
+  /* Footer */
+  .a-footer {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .a-footer:hover {
+    text-decoration: underline;
+    color: inherit;
+  }
