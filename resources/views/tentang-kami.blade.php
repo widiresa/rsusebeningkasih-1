@@ -60,7 +60,7 @@
             </article>
             </div>
           <div class="col-md-3">
-            <div class="position-sticky bg-light p-3 p-md-4" style="top: 2rem;">
+            <div class="position-sticky bg-light p-3 p-md-4" style="top: 7rem;">
               <h5>Daftar Isi</h5>
               <div class="m-0">
                 <a href="#sejarah">Sejarah</a>
