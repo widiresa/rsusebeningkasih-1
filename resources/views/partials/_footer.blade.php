@@ -5,7 +5,7 @@
           <div class="col-xl">
             <p class="my-1">Lokasi</p>
             <a class="a-footer" href="https://goo.gl/maps/FAc8MHT8SysMnEpB6" target="_blank">
-              <p class="fw-light text-muted mb-1"><i class="fa-solid fa-location-arrow"></i> Jl .Raya Pati - Tayu KM.3 No.99A, Pakis, Tayu, Pati, Jawa Tengah 59155</p>
+              <p class="fw-light text-muted mb-1"><i class="fa-solid fa-location-arrow"></i> Jl .Raya Tayu - Pati KM.3 No.99A, Pakis, Tayu, Pati, Jawa Tengah 59155</p>
             </a>
           </div>
           <div class="col-xl">
