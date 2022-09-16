@@ -1,3 +1,13 @@
+  @media (max-width: 991px) {
+    body, html {
+      overflow-x: hidden;
+      height: 100vh;
+    }
+    main {
+      min-height: 58vh;
+    }
+  }
+
   /* Cards */
   .card-body:hover {
     background-color: #0d6efd;

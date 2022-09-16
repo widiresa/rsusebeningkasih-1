@@ -1,5 +1,5 @@
-  <footer>
-    <div class="py-md-4 mt-5 bg-light">
+  <footer class="mt-5">
+    <div class="py-md-4 bg-light">
       <div class="container pb-md-2 p-4 p-md-3">
         <div class="row">
           <div class="col-xl">

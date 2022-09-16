@@ -1,7 +1,7 @@
 @extends('partials/main')
 
 @section('main')
-    <div class="container my-4">
+    <div class="container py-4">
         <h3 class="h3 pb-3 mb-2 text-center">Layanan</h3>
         <ul class="nav nav-tabs justify-content-center">
             {{-- <li class="nav-item">

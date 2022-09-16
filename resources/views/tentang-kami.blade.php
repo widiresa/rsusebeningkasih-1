@@ -1,7 +1,7 @@
 @extends('partials/main')
 
 @section('main')
-    <div class="container my-4">
+    <div class="container py-4">
         <div class="row g-5">
           <div class="col-md-9">
             <h3 class="h3 pb-4 mb-4 border-bottom">Tentang Kami</h3>
