@@ -32,12 +32,13 @@
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingOneRanap">
                     <button class="accordion-button fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOneRanap" aria-expanded="true" aria-controls="collapseOneRanap">
-                      VIP (Aquamarine, Topaz, Intan, Mutiara)
+                      VIP
                     </button>
                   </h2>
                   <div id="collapseOneRanap" class="accordion-collapse collapse show" aria-labelledby="headingOneRanap" data-bs-parent="#accordionRanap">
                     <div class="accordion-body">
-                      <p class="mb-0">Jumlah Tempat Tidur: 4</p>
+                      <p class="mb-0">Daftar Ruangan : Aquamarine, Topaz, Intan, dan Mutiara</p>
+                      <p class="mb-0">Jumlah Tempat Tidur : 4</p>
                       <p>Fasilitas :
                         <ul>
                           <li>Satu Pasien dalam Satu Ruangan</li>
@@ -54,12 +55,13 @@
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingTwoRanap">
                     <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwoRanap" aria-expanded="false" aria-controls="collapseTwoRanap">
-                      Kelas I (Kecubung 1, Kecubung 2, dan Kecubung 3)
+                      Kelas I
                     </button>
                   </h2>
                   <div id="collapseTwoRanap" class="accordion-collapse collapse" aria-labelledby="headingTwoRanap" data-bs-parent="#accordionRanap">
                     <div class="accordion-body">
-                      <p class="mb-0">Jumlah Tempat Tidur: 6</p>
+                      <p class="mb-0">Daftar Ruangan : Kecubung 1, Kecubung 2, dan Kecubung 3</p>
+                      <p class="mb-0">Jumlah Tempat Tidur : 6</p>
                       <p>Fasilitas :
                         <ul>
                           <li>Dua Pasien dalam Satu Ruangan</li>
@@ -75,12 +77,13 @@
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingThreeRanap">
                     <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThreeRanap" aria-expanded="false" aria-controls="collapseThreeRanap">
-                      Kelas II (Mirah Delima 1, Mirah Delima 2, Mirah Delima 3, Mirah Delima 4, dan Mirah Delima 5)
+                      Kelas II
                     </button>
                   </h2>
                   <div id="collapseThreeRanap" class="accordion-collapse collapse" aria-labelledby="headingThreeRanap" data-bs-parent="#accordionRanap">
                     <div class="accordion-body">
-                      <p class="mb-0">Jumlah Tempat Tidur: 14</p>
+                      <p class="mb-0">Daftar Ruangan : Mirah Delima 1, Mirah Delima 2, Mirah Delima 3, Mirah Delima 4, dan Mirah Delima 5</p>
+                      <p class="mb-0">Jumlah Tempat Tidur : 14</p>
                       <p>Fasilitas :
                         <ul>
                           <li>Dua sampai Tiga Pasien dalam Satu Ruangan</li>
@@ -95,12 +98,13 @@
                 <div class="accordion-item">
                   <h2 class="accordion-header" id="headingFourRanap">
                     <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFourRanap" aria-expanded="false" aria-controls="collapseFourRanap">
-                      Kelas III (Berlian 1, Berlian 2, Berlian 3, Berlian 4, Berlian 5, dan Berlian 6)
+                      Kelas III
                     </button>
                   </h2>
                   <div id="collapseFourRanap" class="accordion-collapse collapse" aria-labelledby="headingFourRanap" data-bs-parent="#accordionRanap">
                     <div class="accordion-body">
-                      <p class="mb-0">Jumlah Tempat Tidur: 18</p>
+                      <p class="mb-0">Daftar Ruangan : Berlian 1, Berlian 2, Berlian 3, Berlian 4, Berlian 5, dan Berlian 6</p>
+                      <p class="mb-0">Jumlah Tempat Tidur : 18</p>
                       <p>Fasilitas :
                         <ul>
                           <li>Tiga Pasien dalam Satu Ruangan</li>
@@ -126,23 +130,31 @@
                   <div id="collapseOneRajal" class="accordion-collapse collapse show" aria-labelledby="headingOneRajal" data-bs-parent="#accordionRajal">
                     <div class="accordion-body">
                       <p class="mb-0">Daftar Dokter :
-                        <ul>
-                          <li>dr. Rumisih</li>
-                          <li>dr. Kurmin Hadi</li>
-                          <li>dr. Nisa Nurul Alam</li>
-                          <li>dr. Wangsit Widi Astuti</li>
-                          <li>dr. Arief Turwadi</li>
-                          <li>dr. Ita Purwanti</li>
-                          <li>dr. Arif Patriana</li>
-                          <li>dr. Lutfi Reza Aditya</li>
-                          <li>dr. Rendi Aji Ariawan</li>
-                          <li>dr. Brahmantya Agung Utariya</li>
-                          <li>dr. Jesslyn Elvina Kristantio</li>
-                          <li>dr. Maya Elok Faridatin</li>
-                          <li>dr. Diyo Isworo Tunggal Kurniawan</li>
-                          <li>dr. Mayday Finisha</li>
-                          <li>dr. Asrina Enggarela</li>
-                        </ul>
+                        <div class="row">
+                          <div class="col-lg">
+                            <ul class="mb-0">
+                              <li>dr. Rumisih</li>
+                              <li>dr. Kurmin Hadi</li>
+                              <li>dr. Nisa Nurul Alam</li>
+                              <li>dr. Wangsit Widi Astuti</li>
+                              <li>dr. Arief Turwadi</li>
+                              <li>dr. Ita Purwanti</li>
+                              <li>dr. Arif Patriana</li>
+                              <li>dr. Lutfi Reza Aditya</li>
+                            </ul>
+                          </div>
+                          <div class="col-lg">
+                            <ul>
+                              <li>dr. Rendi Aji Ariawan</li>
+                              <li>dr. Brahmantya Agung Utariya</li>
+                              <li>dr. Jesslyn Elvina Kristantio</li>
+                              <li>dr. Maya Elok Faridatin</li>
+                              <li>dr. Diyo Isworo Tunggal Kurniawan</li>
+                              <li>dr. Mayday Finisha</li>
+                              <li>dr. Asrina Enggarela</li>
+                            </ul>
+                          </div>
+                        </div>
                       </p>
                     </div>
                   </div>
@@ -153,66 +165,72 @@
                   </h2>
                   <div id="collapseTwoRajal" class="accordion-collapse collapse" aria-labelledby="headingTwoRajal" data-bs-parent="#accordionRajal">
                     <div class="accordion-body">
-                      <p class="mb-0 fw-semibold">Penyakit Dalam</p>
-                      <p class="mb-0">Daftar Dokter :
-                        <ul>
-                          <li>dr. Eko Sugihanto, Sp. PD, FINASIM</li>
-                        </ul>
-                      </p>
-                      <p class="mb-0 fw-semibold">Bedah Umum</p>
-                      <p class="mb-0">Daftar Dokter :
-                        <ul>
-                          <li>dr. Mario Pohan S, Sp.B</li>
-                          <li>dr. Widi Antono, Sp.B</li>
-                        </ul>
-                      </p>
-                      <p class="mb-0 fw-semibold">Orthopaedi dan Traumatologi</p>
-                      <p class="mb-0">Daftar Dokter :
-                        <ul>
-                          <li>dr. William Limoa, Sp.OT, FICS, AIFO-K</li>
-                        </ul>
-                      </p>
-                      <p class="mb-0 fw-semibold">Anak</p>
-                      <p class="mb-0">Daftar Dokter :
-                        <ul>
-                          <li>dr. Timtri Dilli Mirawati, Sp. A</li>
-                        </ul>
-                      </p>
-                      <p class="mb-0 fw-semibold">Kebidanan dan Kandungan</p>
-                      <p class="mb-0">Daftar Dokter :
-                        <ul>
-                          <li>dr. Tansya Sushan Purnaningrum, Sp.OG</li>
-                          <li>dr. Hendra Daniel Julianto L Batu, Sp.OG</li>
-                          <li>dr. Aji Patriajati, Sp.OG</li>
-                        </ul>
-                      </p>
-                      <p class="mb-0 fw-semibold">Gigi</p>
-                      <p class="mb-0">Daftar Dokter :
-                        <ul>
-                          <li>drg. Karina Wayne S</li>
-                        </ul>
-                      </p>
-                      <p class="mb-0 fw-semibold">Radiologi</p>
-                      <p class="mb-0">Daftar Dokter :
-                        <ul>
-                          <li>dr. Adnan Adityawan, Sp. Rad</li>
-                        </ul>
-                      </p>
-                      <p class="mb-0 fw-semibold">Anestesi</p>
-                      <p class="mb-0">Daftar Dokter :
-                        <ul>
-                          <li>dr. Joko Padwanto S, Sp. An</li>
-                          <li>dr. Heni Handayani, Sp. An</li>
-                        </ul>
-                      </p>
-                      <p class="mb-0 fw-semibold">Patologi Klinik</p>
-                      <p class="mb-0">Daftar Dokter :
-                        <ul>
-                          <li>dr. Enny Rohmawati, Sp.PK</li>
-                        </ul>
-                      </p>
-                      <p class="mb-0 fw-semibold">Fisioterapi</p>
-                      <p class="mb-0 fw-semibold">Psikologi</p>
+                      <div class="row">
+                        <div class="col-lg">
+                          <p class="mb-0 fw-semibold">Penyakit Dalam</p>
+                          <p class="mb-0">Daftar Dokter :
+                            <ul>
+                              <li>dr. Eko Sugihanto, Sp. PD, FINASIM</li>
+                            </ul>
+                          </p>
+                          <p class="mb-0 fw-semibold">Bedah Umum</p>
+                          <p class="mb-0">Daftar Dokter :
+                            <ul>
+                              <li>dr. Mario Pohan S, Sp.B</li>
+                              <li>dr. Widi Antono, Sp.B</li>
+                            </ul>
+                          </p>
+                          <p class="mb-0 fw-semibold">Orthopaedi dan Traumatologi</p>
+                          <p class="mb-0">Daftar Dokter :
+                            <ul>
+                              <li>dr. William Limoa, Sp.OT, FICS, AIFO-K</li>
+                            </ul>
+                          </p>
+                          <p class="mb-0 fw-semibold">Anak</p>
+                          <p class="mb-0">Daftar Dokter :
+                            <ul>
+                              <li>dr. Timtri Dilli Mirawati, Sp. A</li>
+                            </ul>
+                          </p>
+                          <p class="mb-0 fw-semibold">Kebidanan dan Kandungan</p>
+                          <p class="mb-0">Daftar Dokter :
+                            <ul>
+                              <li>dr. Tansya Sushan Purnaningrum, Sp.OG</li>
+                              <li>dr. Hendra Daniel Julianto L Batu, Sp.OG</li>
+                              <li>dr. Aji Patriajati, Sp.OG</li>
+                            </ul>
+                          </p>
+                        </div>
+                        <div class="col-lg">
+                          <p class="mb-0 fw-semibold">Gigi</p>
+                          <p class="mb-0">Daftar Dokter :
+                            <ul>
+                              <li>drg. Karina Wayne S</li>
+                            </ul>
+                          </p>
+                          <p class="mb-0 fw-semibold">Radiologi</p>
+                          <p class="mb-0">Daftar Dokter :
+                            <ul>
+                              <li>dr. Adnan Adityawan, Sp. Rad</li>
+                            </ul>
+                          </p>
+                          <p class="mb-0 fw-semibold">Anestesi</p>
+                          <p class="mb-0">Daftar Dokter :
+                            <ul>
+                              <li>dr. Joko Padwanto S, Sp. An</li>
+                              <li>dr. Heni Handayani, Sp. An</li>
+                            </ul>
+                          </p>
+                          <p class="mb-0 fw-semibold">Patologi Klinik</p>
+                          <p class="mb-0">Daftar Dokter :
+                            <ul>
+                              <li>dr. Enny Rohmawati, Sp.PK</li>
+                            </ul>
+                          </p>
+                          <p class="mb-0 fw-semibold">Fisioterapi</p>
+                          <p class="mb-0 fw-semibold">Psikologi</p>
+                        </div>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -274,7 +292,7 @@
                   </h2>
                   <div id="collapseThreePnnjg" class="accordion-collapse collapse" aria-labelledby="headingThreePnnjg" data-bs-parent="#accordionPnnjg">
                     <div class="accordion-body">
-                      <p class="mb-0">Jumlah Tempat Tidur: 8</p>
+                      <p class="mb-0">Jumlah Tempat Tidur : 8</p>
                       <p>Fasilitas :
                         <ul></li>
                           <li>Infant Inkubator</li>

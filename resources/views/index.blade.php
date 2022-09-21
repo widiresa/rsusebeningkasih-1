@@ -32,33 +32,33 @@
     <section>
       <div class="container">
         <div class="row my-5 justify-content-center">
-          <div class="col-lg-3 my-2">
+          <div class="col-lg-3 my-1">
             <a href="kontak" class="text-decoration-none">
-              <div class="card h-100 bg-light border-secondary rounded-0 shadow">
+              <div class="card h-100 bg-light border-secondary rounded-0 shadow-sm">
                 <div class="card-body">
-                  <p class="text-center text-secondary fs-1"><i class="fa-regular fa-hospital"></i></p>
-                  <h4 class="card-title text-center">Gawat Darurat</h4>
+                  <p class="text-center fs-1"><i class="fa-regular fa-hospital"></i></p>
+                  <h4 class="card-title text-dark text-center">Gawat Darurat</h4>
                 </div>
               </div>
             </a>
           </div>
-          <div class="col-lg-3 my-2">
+          <div class="col-lg-3 my-1">
             {{-- GANTI HREF PENDAFTARAN ONLINE --}}
             <a href="http://pendaftaran.rsusebeningkasih.com" target="_blank" class="text-decoration-none">
-              <div class="card h-100 bg-light border-secondary rounded-0 shadow">
+              <div class="card h-100 bg-light border-secondary rounded-0 shadow-sm">
                 <div class="card-body">
-                  <p class="text-center text-secondary fs-1"><i class="fa-solid fa-globe"></i></p>
-                  <h4 class="card-title text-center">Pendaftaran Online</h4>
+                  <p class="text-center fs-1"><i class="fa-solid fa-globe"></i></p>
+                  <h4 class="card-title text-dark text-center">Pendaftaran Online</h4>
                 </div>
               </div>
             </a>
           </div>
-          <div class="col-lg-3 my-2">
+          <div class="col-lg-3 my-1">
             <a href="jadwal-dokter" class="text-decoration-none">
-              <div class="card h-100 bg-light border-secondary rounded-0 shadow">
+              <div class="card h-100 bg-light border-secondary rounded-0 shadow-sm">
                 <div class="card-body">
-                  <p class="text-center text-secondary fs-1"><i class="fa-regular fa-calendar"></i></p>
-                  <h4 class="card-title text-center">Jadwal Dokter</h4>
+                  <p class="text-center fs-1"><i class="fa-regular fa-calendar"></i></p>
+                  <h4 class="card-title text-dark text-center">Jadwal Dokter</h4>
                 </div>
               </div>
             </a>

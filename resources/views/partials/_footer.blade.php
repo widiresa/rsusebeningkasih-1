@@ -34,7 +34,7 @@
     </div>
     <div class="py-1 bg-dark">
       <div class="container py-md-2">
-        <p class="text-muted text-center mb-0 fw-light">Copyright © 2022 Rumah Sakit Umum Sebening Kasih - Melayani dengan Sepenuh Hati</p>
+        <p class="text-muted text-center mb-0 fw-light">Copyright © 2022 RSU Sebening Kasih - Melayani dengan Sepenuh Hati</p>
       </div>
     </div>
   </footer>
