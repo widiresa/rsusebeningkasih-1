@@ -1,6 +1,5 @@
-@extends('partials/main')
-
-@section('main')
+<x-layout>
+  <x-slot name="title">Sebening Kasih - Beranda | Melayani dengan Sepenuh Hati</x-slot>
     <!-- Carousels Slideshow -->
     <div id="darkCarousel" class="carousel carousel-dark slide shadow-sm" data-bs-ride="carousel">
       <div class="carousel-indicators">
@@ -66,4 +65,4 @@
         </div>
       </div>
     </section>
-@endsection
+</x-layout>

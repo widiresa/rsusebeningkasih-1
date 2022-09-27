@@ -14,27 +14,27 @@ class HomeController extends Controller
      */
     public function index()
     {
-        return view('index', ['title' => 'Beranda']);
+        return view('home.index');
     }
 
     public function tentang_kami()
     {
-        return view('tentang-kami', ['title' => 'Tentang Kami']);
+        return view('home.tentang-kami');
     }
 
     public function Layanan()
     {
-        return view('layanan', ['title' => 'Layanan']);
+        return view('home.layanan');
     }
 
     public function jadwal_dokter()
     {
-        return view('jadwal-dokter', ['title' => 'Jadwal Dokter']);
+        return view('home.jadwal-dokter');
     }
 
     public function kontak()
     {
-        return view('kontak', ['title' => 'Kontak']);
+        return view('home.kontak');
     }
 
     /**
