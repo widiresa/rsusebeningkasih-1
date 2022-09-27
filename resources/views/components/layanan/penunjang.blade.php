@@ -4,7 +4,7 @@
       <div class="accordion" id="accordionPnnjg">
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingOnePnnjg">
-            <button class="accordion-button fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOnePnnjg" aria-expanded="true" aria-controls="collapseOnePnnjg">Isolasi Airborne</button>
+            <button class="accordion-button fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOnePnnjg" aria-expanded="true" aria-controls="collapseOnePnnjg">Permata (Isolasi Airborne)</button>
           </h2>
           <div id="collapseOnePnnjg" class="accordion-collapse collapse show" aria-labelledby="headingOnePnnjg" data-bs-parent="#accordionPnnjg">
             <div class="accordion-body">
@@ -20,11 +20,11 @@
         </div>
         <div class="accordion-item">
           <h2 class="accordion-header" id="headingTwoPnnjg">
-            <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwoPnnjg" aria-expanded="false" aria-controls="collapseTwoPnnjg">Isolasi Imunosupresi</button>
+            <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwoPnnjg" aria-expanded="false" aria-controls="collapseTwoPnnjg">Isolasi Immunosupresi</button>
           </h2>
           <div id="collapseTwoPnnjg" class="accordion-collapse collapse" aria-labelledby="headingTwoPnnjg" data-bs-parent="#accordionPnnjg">
             <div class="accordion-body">
-              <p class="mb-0">Isolasi dengan tekanan posisif untuk pasien imunosupresi yang sangat berisiko tertular infeksi.</p>
+              <p class="mb-0">Isolasi dengan tekanan posisif untuk pasien immunosupresi yang sangat berisiko tertular infeksi.</p>
               <p>Fasilitas :
                 <ul>
                   <li>Dua Tempat Tidur</li>

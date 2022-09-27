@@ -1,5 +1,5 @@
 <x-layout>
-  <x-slot name="title">Sebening Kasih - Beranda | Melayani dengan Sepenuh Hati</x-slot>
+  <x-slot name="title">RSU Sebening Kasih - Beranda | Melayani dengan Sepenuh Hati</x-slot>
     <!-- Carousels Slideshow -->
     <div id="darkCarousel" class="carousel carousel-dark slide shadow-sm" data-bs-ride="carousel">
       <div class="carousel-indicators">
@@ -33,7 +33,7 @@
         <div class="row my-5 justify-content-center">
           <div class="col-lg-3 my-1">
             <a href="kontak" class="text-decoration-none">
-              <div class="card h-100 bg-light border-secondary rounded-0 shadow-sm">
+              <div class="card h-100 bg-light rounded-0 shadow-sm">
                 <div class="card-body">
                   <p class="text-center fs-1"><i class="fa-regular fa-hospital"></i></p>
                   <h4 class="card-title text-dark text-center">Gawat Darurat</h4>
@@ -44,7 +44,7 @@
           <div class="col-lg-3 my-1">
             {{-- GANTI HREF PENDAFTARAN ONLINE --}}
             <a href="http://pendaftaran.rsusebeningkasih.com" target="_blank" class="text-decoration-none">
-              <div class="card h-100 bg-light border-secondary rounded-0 shadow-sm">
+              <div class="card h-100 bg-light rounded-0 shadow-sm">
                 <div class="card-body">
                   <p class="text-center fs-1"><i class="fa-solid fa-globe"></i></p>
                   <h4 class="card-title text-dark text-center">Pendaftaran Online</h4>
@@ -54,7 +54,7 @@
           </div>
           <div class="col-lg-3 my-1">
             <a href="jadwal-dokter" class="text-decoration-none">
-              <div class="card h-100 bg-light border-secondary rounded-0 shadow-sm">
+              <div class="card h-100 bg-light rounded-0 shadow-sm">
                 <div class="card-body">
                   <p class="text-center fs-1"><i class="fa-regular fa-calendar"></i></p>
                   <h4 class="card-title text-dark text-center">Jadwal Dokter</h4>
