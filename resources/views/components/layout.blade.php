@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ $title }}</title>
     <meta name="title" content="RSU Sebening Kasih - Beranda | Melayani dengan Sepenuh Hati">
-    <meta name="author" content="rsusebeningkasih.com">
+    <meta name="author" content="RSBK">
     <meta name="description" content="Rumah Sakit Umum Sebening Kasih - Melayani dengan Sepenuh Hati Jl. Raya Tayu - Pati KM. 3 No. 99A, Pakis, Kecamatan Tayu, Kabupaten Pati, Jawa Tengah 59155. Telp. (0295) 4150645.">
     <meta name="keywords" content="rsu sebening kasih, rs sebening kasih, rumah sakit tayu pati, spesialis kandungan dan kebidanan tayu">
     <link rel="icon" href="favicon.ico">

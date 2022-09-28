@@ -25,7 +25,7 @@
           </li>
           <li class="nav-item me-2">
             {{-- GANTI HREF PENDAFTARAN ONLINE --}}
-            <a class="nav-link fw-semibold" href="http://pendaftaran.rsusebeningkasih.com" target="_blank">Pendaftaran Online</a>
+            <a class="nav-link fw-semibold" href="https://pendaftaran.rsusebeningkasih.com" target="_blank">Pendaftaran Online</a>
           </li>
         </ul>
       </div>
