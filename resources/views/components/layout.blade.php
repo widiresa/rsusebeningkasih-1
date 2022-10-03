@@ -9,10 +9,11 @@
     <meta name="author" content="RSBK">
     <meta name="description" content="Rumah Sakit Umum Sebening Kasih - Melayani dengan Sepenuh Hati Jl. Raya Tayu - Pati KM. 3 No. 99A, Pakis, Kecamatan Tayu, Kabupaten Pati, Jawa Tengah 59155. Telp. (0295) 4150645.">
     <meta name="keywords" content="rsu sebening kasih, rs sebening kasih, rumah sakit tayu pati, spesialis kandungan dan kebidanan tayu">
-    <link rel="icon" href="favicon.ico">
+    <link rel="icon" href="{{ asset('favicon.ico') }}">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" rel="stylesheet">
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 </head>
 <body>
   <x-header />

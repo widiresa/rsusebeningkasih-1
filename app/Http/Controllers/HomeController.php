@@ -22,7 +22,7 @@ class HomeController extends Controller
         return view('home.tentang-kami');
     }
 
-    public function Layanan()
+    public function layanan()
     {
         return view('home.layanan');
     }
@@ -32,10 +32,15 @@ class HomeController extends Controller
         return view('home.jadwal-dokter');
     }
 
-    public function kontak()
+    public function ketersediaan()
     {
-        return view('home.kontak');
+        return view('home.ketersediaan');
     }
+
+    // public function kontak()
+    // {
+    //     return view('home.kontak');
+    // }
 
     /**
      * Show the form for creating a new resource.

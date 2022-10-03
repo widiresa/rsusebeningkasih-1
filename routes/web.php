@@ -22,4 +22,4 @@ Route::get('/layanan', [HomeController::class, 'layanan']);
 
 Route::get('/jadwal-dokter', [HomeController::class, 'jadwal_dokter']);
 
-Route::get('/kontak', [HomeController::class, 'kontak']);
+// Route::get('/kontak', [HomeController::class, 'kontak']);
