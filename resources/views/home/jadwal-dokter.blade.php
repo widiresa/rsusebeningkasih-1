@@ -1,8 +1,12 @@
 <x-layout>
     <x-slot name="title">Jadwal Dokter</x-slot>
-    <div class="container py-4">
+    <div class="container-fluid py-4">
         <h3 class="h3 pb-4 mb-4 border-bottom">Jadwal Dokter</h3>
-        <div class="table-responsive">
+        <div class="text-center">
+            {{-- <img src="{{ $assets('img/jadwal.png') }}" alt="rsbk" class="w-75 img-responsive"> --}}
+            <img src="https://drive.google.com/uc?export=view&id=1gHE_0W-jCTf7Wf2ILYhS-E3ka7aQRzT_" alt="rsbk" class="img-fluid">
+        </div>
+        {{-- <div class="table-responsive">
             <table class="table text-center table-hover table-bordered align-middle w-100">
                 <thead class="table-info">
                     <tr>
@@ -130,6 +134,6 @@
                     </tr>
                 </tbody>
             </table>
-        </div>
+        </div> --}}
     </div>
 </x-layout>

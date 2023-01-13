@@ -26,8 +26,8 @@
           </div>
           <div class="col-xl">
             <p class="my-1">Media Sosial</p>
-            <a class="a-footer" href="https://www.instagram.com/rssebeningkasih/" target="_blank">
-              <p class="fw-light text-muted mb-0"><i class="fa-brands fa-square-instagram fa-sm"></i> @rssebeningkasih</p>
+            <a class="a-footer" href="https://www.instagram.com/rsusebeningkasih/" target="_blank">
+              <p class="fw-light text-muted mb-0"><i class="fa-brands fa-square-instagram fa-sm"></i> @rsusebeningkasih</p>
             </a>
             <a class="a-footer" href="https://www.youtube.com/channel/UCakYL31LRn53Nuom_BYZelA" target="_blank">
               <p class="fw-light text-muted mb-0"><i class="fa-brands fa-youtube fa-sm"></i> RS Sebening Kasih</p>
