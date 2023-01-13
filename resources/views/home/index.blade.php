@@ -32,11 +32,11 @@
       <div class="container">
         <div class="row my-5 justify-content-center">
           <div class="col-lg-3 my-1">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdbnVIhgniU2B4zoqOi6nT0vVwSI1QVBPZa01E4DnTOiUARWA/viewform" target="_blank" class="text-decoration-none">
+            <a href="https://sebeningkasih.epizy.com/kuesioner" target="_blank" class="text-decoration-none">
               <div class="card h-100 bg-light rounded-0 shadow">
                 <div class="card-body">
                   <p class="text-center fs-1"><i class="fa-regular fa-flag"></i></p>
-                  <h5 class="card-title text-dark text-center">Pengaduan Pelanggan</h5>
+                  <h5 class="card-title text-dark text-center">Survei Kepuasan</h5>
                 </div>
               </div>
             </a>
