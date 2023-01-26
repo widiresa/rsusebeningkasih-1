@@ -1,4 +1,7 @@
   <article class="mb-2">
+  <div id="container">
+              <img src="img/profil.png" class="d-block w-100" />
+            </div>
     <h4 class="h4 text-primary" id="sejarah">Sejarah</h4>
     <p>RSU. Sebening Kasih berlokasi di wilayah Desa Pakis Kecamatan Tayu 25KM dari Pati Kota. Mulai memberikan pelayanan sejak tanggal 14 Maret 2011, di mulai dengan pelayanan Poli Kandungan dan Apotik Sebening Kasih. Seiring dengan berjalannya waktu menjadi Klinik RB Sebening Kasih dan setelah 8 bulan ditangani oleh Dr. dr. Cahyono Hadi, Sp. OG (KFER) klinik dilanjutkan oleh dr. Hj. Ifrinda Giantari, Sp. OG (K) sejak bulan November 2011 hingga tahun 2016.</p>
     <p>RSU. Sebening Kasih adalah RS. Swasta murni milik PT. Sebening Kasih Sehat Abadi yang dipimpin oleh putra daerah Kab. Pati Dr. dr. Cahyono Hadi, Sp. OG (KFER). Berawal sebagai RS. bersalin dengan ijin operasional RS. tipe D dengan arah 60 TT dan diresmikan pada tanggal 12 Desember 2015 oleh Bupati Kab. Pati SK Bupati No. 445/4175/2015.</p>
@@ -7,8 +10,9 @@
   <article class="mb-2">
     <h4 class="h4 text-primary" id="visidanmisi">Visi dan Misi</h4>
     <ol type="a">
-      <li>Visi : Menjadi Rumah Sakit Swasta yang mengedepankan pelayanan prima.</li>
-      <li>Misi : 
+      <li class="h6">Visi : </li>
+      <p>Menjadi Rumah Sakit Swasta yang mengedepankan pelayanan prima.</p>
+      <li class="h6">Misi : </li>
         <ul>
           <li>Memberikan pelayanan kesehatan yang cepat, tepat, dan akurat</li>
           <li>Mengutamakan kepuasan dan keselamatan pasien</li>
@@ -22,8 +26,10 @@
   <article class="mb-2">
     <h4 class="h4 text-primary" id="mottodannilaidasar">Motto dan Nilai Dasar</h4>
     <ol type="a">
-      <li>Motto : Memberikan pelayanan dengan sepenuh hati dan manusiawi.</li>
-      <li>Nilai Dasar : Keramahan, kekeluargaan, kejujuran, keterbukaan dan keterpercayaan dan manusiawi.</li>
+      <li class="h6">Motto : </li>
+      <p>Memberikan pelayanan dengan sepenuh hati dan manusiawi. </p>
+      <li class="h6">Nilai Dasar : </li>
+      <p>Keramahan, kekeluargaan, kejujuran, keterbukaan dan keterpercayaan dan manusiawi.</p>
     </ol>
     <hr>
   </article>
