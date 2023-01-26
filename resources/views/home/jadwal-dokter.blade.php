@@ -130,7 +130,7 @@
                     <tr>
                         <th rowspan="3">7</th>
                         <th rowspan="3">MATA</th>
-                        <td rowspan="3">dr. Dyah Mustika Kumiatri, MMR, Sp. M</td>
+                        <td rowspan="3">dr. Dyah Mustika Kurniatri, MMR, Sp. M</td>
                         <tr>
                             <td>Senin & Rabu</td>
                             <td>13.30 - 16.30 WIB</td>
